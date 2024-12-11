@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Chb1uLmuAe0fuFUuN/Lv7HB0vBsg2WuDYfo9sd6p+kvdoUHli/WIrcEx8id6qO9W1Xq7mEUCpIfMe4BacTfOeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erick1509\\Documents\\GitHub\\WebSocketWithCSharp\\WebSocketWithCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erick1509\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\Erick1509\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Erick1509\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\Erick1509\\.nuget\\packages\\swashbuckle.aspnetcore\\7.2.0\\swashbuckle.aspnetcore.7.2.0.nupkg.sha512",
+    "C:\\Users\\Erick1509\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "C:\\Users\\Erick1509\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "C:\\Users\\Erick1509\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
